@@ -1,18 +1,35 @@
-### Hi there 👋
+Hi there 👋
 
-#### - 🔭 I’m currently working on ...
+🔭 I’m currently working on
+Web development projects at Linkstaff Co.jp
 
-<!--
-**sonet1182/sonet1182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning
+Advanced Next.js and Material-UI for sophisticated file management systems
+Japanese language (N3 level)
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on
+Full Stack Laravel and React.js projects
+Open source projects related to web development and API integrations
 
-- 🔭 I’m currently working on Linkstaff Co.jp
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with
+Enhancing my proficiency in cloud services like AWS and Azure
+Exploring new frameworks and technologies to improve my development skills
+
+💬 Ask me about
+Full Stack Web Development
+Laravel, React.js, and Next.js
+API Development and Integration
+
+📫 How to reach me
+Email: Shawnshikder1996@gmail.com
+LinkedIn: Md. Shawn Shikder Sonet
+GitHub: sonet1182
+
+😄 Pronouns
+He/Him
+
+⚡ Fun fact
+I ranked 7th in the CPC Programming Contest
+
+Looking forward to connecting and collaborating with fellow developers and tech enthusiasts!
+
