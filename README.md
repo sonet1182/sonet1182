@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🔭 I’m currently working on
-- Web development projects at Linkstaff Co.jp
+- Web development projects at Linkstaff Co.jp (Remote)
 
 #### 🌱 I’m currently learning
 - Advanced Next.js and Material-UI for sophisticated file management systems
